@@ -13,11 +13,11 @@ Binary Search Tree Projesi
 --- 
 root'u 4 olarak almış olduk
 - Tree mantığı çevçevesinden bakarsak; 
-- sağında 6, solunda 3 bulunur
-- 6'nın sağında 5 solunda 7,
-- 2'nin sağında 1 solunda 3,
+- solunda 2, sağında 6 bulunur
+- 6'nın solunda 5 sağında 8,
+- 2'nin solunda 1 sağında 3,
 - 1'in solunda 0,
-- 8'in sağında 9 solunda 7 bulunur
+- 8'in solunda 7 sağında 9 bulunur
 --- 
 ```  
             4   
